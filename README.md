@@ -26,6 +26,7 @@ The app is designed for boutique owners,fashion students, and creative individua
 1️⃣ Integration of Real AI-Based Image Generation
 
 Currently, the application uses sample images to simulate dress outputs. In future versions, these will be replaced with AI-generated fashion designs using advanced generative models.
+
 ----
 Planned Improvements:
 
