@@ -76,6 +76,7 @@ Database integration (MongoDB / PostgreSQL)
 
 Admin dashboard for boutique management
 
+---
  🔮 Vision
 
 StitchDream aims to evolve from a demo-based design simulator into a fully AI-powered fashion design assistant that empowers creativity, reduces design uncertainty, and transforms digital tailoring experiences.
