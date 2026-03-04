@@ -1,18 +1,18 @@
-# StitchDream
+# 🪡👗StitchDream
 
-## Overview:
+## 📖 Overview:
 
 StitchDream is a web-based fashion assistant that helps users visualize and generate dress designs based on their fabric preferences and style ideas.It uses sample image prompts and a guide UI to simulate AI-powered fashion design assistance.
 
-## Objective:
+## 🎯 Objective:
 
 To develop a user-friendly platform that allows users to select fabric types,input design details, and generate dress mockups,enhancing creativity and personalization in fashion design.
 
-## Scope:
+## 🌍 Scope:
 
 The app is designed for boutique owners,fashion students, and creative individuals who want to explore custom designs virtually before tailoring.It bridges the gap between imagination and visualization using technology.
 
-## Tools and technologies used:
+## 🛠️ Tools and technologies used:
 
       HTML
       CSS
@@ -21,7 +21,7 @@ The app is designed for boutique owners,fashion students, and creative individua
       Express.js (Backend)
       Sample images for demonstration
 
-## Future enhancement:
+## 🔮 Future enhancement:
 
 1️⃣ Integration of Real AI-Based Image Generation
 
@@ -76,7 +76,7 @@ Database integration (MongoDB / PostgreSQL)
 
 Admin dashboard for boutique management
 
-  Vision
+ 🔮 Vision
 
 StitchDream aims to evolve from a demo-based design simulator into a fully AI-powered fashion design assistant that empowers creativity, reduces design uncertainty, and transforms digital tailoring experiences.
 
