@@ -2,7 +2,7 @@
 
 ## 📖 Overview:
 
-StitchDream is a web-based fashion assistant that helps users visualize and generate dress designs based on their fabric preferences and style ideas.It uses sample image prompts and a guide UI to simulate AI-powered fashion design assistance.
+  StitchDream is a web-based fashion assistant that helps users visualize and generate dress designs based on their fabric preferences and style   ideas.It uses sample image prompts and a guide UI to simulate AI-powered fashion design assistance.
 
 ## 🎯 Objective:
 
