@@ -23,7 +23,7 @@ The app is designed for boutique owners,fashion students, and creative individua
 
 ## 🔮 Future enhancement:
 
-1️⃣ Integration of Real AI-Based Image Generation
+### 1️⃣ Integration of Real AI-Based Image Generation
 
 Currently, the application uses sample images to simulate dress outputs. In future versions, these will be replaced with AI-generated fashion designs using advanced generative models.
 
@@ -40,7 +40,7 @@ Currently, the application uses sample images to simulate dress outputs. In futu
 
 🔹Style-based generation (casual, bridal, party wear, etc.)
 
- 2️⃣ Smart Fabric Simulation
+### 2️⃣ Smart Fabric Simulation
 
   Realistic texture rendering
 
@@ -48,7 +48,7 @@ Currently, the application uses sample images to simulate dress outputs. In futu
 
 Pattern-aware generation (floral, embroidery, prints)
 
- 3️⃣ Advanced User Features
+### 3️⃣ Advanced User Features
 
 User accounts & saved designs
 
@@ -60,7 +60,7 @@ Custom measurement input
 
 Sharing designs on social media
 
- 4️⃣ Machine Learning Personalization
+ ### 4️⃣ Machine Learning Personalization
 
 Design recommendations based on user history
 
@@ -68,7 +68,7 @@ Trend-based suggestions
 
 AI stylist assistant chatbot
 
- 5️⃣ Deployment & Scalability
+ ### 5️⃣ Deployment & Scalability
 
 Cloud deployment
 
