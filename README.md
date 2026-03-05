@@ -28,23 +28,23 @@ The app is designed for boutique owners,fashion students, and creative individua
 Currently, the application uses sample images to simulate dress outputs. In future versions, these will be replaced with AI-generated fashion designs using advanced generative models.
 
 
-Planned Improvements:
-----
-Integration with AI image generation APIs (e.g., diffusion models)
+## Planned Improvements:
 
-Real-time text-to-image dress generation
+🔹Integration with AI image generation APIs (e.g., diffusion models)
 
-Fabric-aware rendering (silk, cotton, chiffon, etc.)
+🔹Real-time text-to-image dress generation
 
-Custom body type adaptation
+🔹Fabric-aware rendering (silk, cotton, chiffon, etc.)
 
-Style-based generation (casual, bridal, party wear, etc.)
+🔹Custom body type adaptation
+
+🔹Style-based generation (casual, bridal, party wear, etc.)
 
  2️⃣ Smart Fabric Simulation
 
-Realistic texture rendering
+  Realistic texture rendering
 
-Dynamic fabric fall and draping simulation
+  Dynamic fabric fall and draping simulation
 
 Pattern-aware generation (floral, embroidery, prints)
 
